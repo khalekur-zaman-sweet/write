@@ -1,1 +1,88 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 
+.fourth-contant{
+    margin-top: -3.7%;
+}
+.fived-contant{
+    margin-top: -3.7%;
+}
+.icon{
+    text-align: right;
+    font-size: 30px;
+    margin-right: 5%;
+}
+/*  ------------------responsive website----------- */
+
+@media (max-width: 1199px){
+    .img1{
+        width: 200px;
+        margin-top: 20%;
+    }
+    .img2{
+        width: 210px;
+        height: 300px;
+    }
+    .img3{
+        width: 230px;
+        height: 307px;
+    }
+    .img4{
+        width: 130px;
+        height: 250px;
+        margin-left: 5%;
+    }
+    .img5{
+        width: 170px;
+        height: 300px;
+    }
+    .button1{
+        margin-top: -30%;
+    }
+    .blog{
+        margin-top: -30%;
+    }
+  .write{
+      margin-top: -40%;
+  }
+  .fived-contant{
+    margin-top: -7%;
+}
+}
+@media (max-width: 767px){
+    .img1{
+        width: 135px;
+        margin-top: 20%;
+    }
+    .img2{
+        width: 150px;
+        height: 250px;
+    }
+    .img3{
+        width: 165px;
+        height: 250px;
+    }
+    .img4{
+        width: 90px;
+        height: 200px;
+        margin-left: 2%;
+    }
+    .img5{
+        width: 100px;
+        height: 200px;
+    }
+    .button1{
+        margin-top: -30%;
+    }
+    .blog{
+        margin-top: -60%;
+    }
+  .write{
+      margin-top: -90%;
+  }
+  .fived-contant{
+    margin-top: -10%;
+}
+}
